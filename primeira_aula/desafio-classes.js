@@ -27,7 +27,7 @@ class Personagem {
                 ataque = "soco";
         }
 
-        console.log(`o ${this.tipo} atacou usando ${ataque}`);
+        console.log(`o ${this.tipo} atacou usando ${ataque}!`);
     }
 
     curar(){
